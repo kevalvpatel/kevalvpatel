@@ -55,15 +55,5 @@ Currently working at **Viome**, transforming E-commerce data to power daily busi
 
 ## 📫 Let’s Connect
 
-- 📧 Email: ekevalpatel@gmail.com  
+- 📧 Email: ekevalpatel@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevalvp)  
-
----
-
-## 📈 GitHub Stats 
-
-![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevalvpatel&show_icons=true&hide_title=true&count_private=true&theme=default)
-
----
-
-_“Data is not just information — it’s the story behind every decision.”_
