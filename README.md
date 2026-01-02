@@ -51,6 +51,9 @@ Currently working at **Viome**, transforming E-commerce data to power daily busi
 [![AWS Cloud Operations](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Operations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/2a7da889-f58b-4fa4-97ad-81e210c416e1)
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.credly.com/badges/bc38fd69-45da-4f2b-b949-429bc96431db)
 
+[![Microsoft Fabric Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/keval-patel/credentials/certification/fabric-data-engineer-associate)
+[![Astronomer Apache Airflow 3](https://img.shields.io/badge/Astronomer%20Apache%20Airflow%203-5A2D82?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://www.credly.com/badges/771f10d5-da42-409d-bcff-000ec6bef240/public_url)
+
 ---
 
 ## 📫 Let’s Connect
