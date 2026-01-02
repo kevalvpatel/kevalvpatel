@@ -44,15 +44,13 @@ Currently working at **Viome**, transforming E-commerce data to power daily busi
 
 ## 🎓 Certifications
 
-[![dbt Certification](https://img.shields.io/badge/dbt%20Certified-FE6532?style=for-the-badge&logo=dbt&logoColor=white)](https://credentials.getdbt.com/b262e34f-9ad1-4f05-87c1-db3559000fc2#acc.NOPZSTuG)
-[![Databricks](https://img.shields.io/badge/Databricks%20Lakehouse%20Fundamentals-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/9e9e1304-62f4-4f37-be92-328023f6a6b8#acc.v18tOjzH)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/me/achievements?tab=tab-modules#trophies-section)
-[![HackerRank SQL](https://img.shields.io/badge/HackerRank%20SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c49108982853)
-[![AWS Cloud Operations](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Operations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/2a7da889-f58b-4fa4-97ad-81e210c416e1)
-[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.credly.com/badges/bc38fd69-45da-4f2b-b949-429bc96431db)
-
-[![Microsoft Fabric Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/keval-patel/credentials/certification/fabric-data-engineer-associate)
+[![Microsoft Fabric Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/keval-patel/credentials/9ecffbd7e64cc272)
 [![Astronomer Apache Airflow 3](https://img.shields.io/badge/Astronomer%20Apache%20Airflow%203-5A2D82?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://www.credly.com/badges/771f10d5-da42-409d-bcff-000ec6bef240/public_url)
+[![Databricks](https://img.shields.io/badge/Databricks%20Lakehouse%20Fundamentals-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/9e9e1304-62f4-4f37-be92-328023f6a6b8#acc.v18tOjzH)
+[![dbt Certification](https://img.shields.io/badge/dbt%20Certified-FE6532?style=for-the-badge&logo=dbt&logoColor=white)](https://credentials.getdbt.com/b262e34f-9ad1-4f05-87c1-db3559000fc2#acc.NOPZSTuG)
+[![AWS Cloud Operations](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Operations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/2a7da889-f58b-4fa4-97ad-81e210c416e1)
+[![HackerRank SQL](https://img.shields.io/badge/HackerRank%20SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c49108982853)
+[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.credly.com/badges/bc38fd69-45da-4f2b-b949-429bc96431db)
 
 ---
 
