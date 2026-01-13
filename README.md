@@ -57,4 +57,4 @@ Currently working at **Viome**, transforming E-commerce data to power daily busi
 ## 📫 Let’s Connect
 
 - 📧 Email: ekevalpatel@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevalvp)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevalvp)
