@@ -50,7 +50,7 @@ Currently working at **Viome**, transforming E-commerce data to power daily busi
 [![dbt Certification](https://img.shields.io/badge/dbt%20Certified-FE6532?style=for-the-badge&logo=dbt&logoColor=white)](https://credentials.getdbt.com/b262e34f-9ad1-4f05-87c1-db3559000fc2#acc.NOPZSTuG)
 [![AWS Cloud Operations](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Operations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/2a7da889-f58b-4fa4-97ad-81e210c416e1)
 [![HackerRank SQL](https://img.shields.io/badge/HackerRank%20SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c49108982853)
-[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.credly.com/badges/bc38fd69-45da-4f2b-b949-429bc96431db)
+[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD%20Associate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.credly.com/badges/bc38fd69-45da-4f2b-b949-429bc96431db) 
 
 ---
 
